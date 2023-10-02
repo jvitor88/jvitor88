@@ -1,9 +1,11 @@
-<h1>Bem-vindo(a) ao meu perfil!</h1>
+<h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Young+Serif&pause=1000&width=435&lines=Bem-vindo(a)+ao+meu+perfil!;Eu+sou+o+Jos%C3%A9+Vitor+Silveira)](https://git.io/typing-svg)</h1>
+
+
 
 <div>
   <a href="https://github.com/jvitor88">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvitor88&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitor88&layout=compact&langs_count=6&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvitor88&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
